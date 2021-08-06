@@ -1,0 +1,28 @@
+package com.test01;
+
+public class MTest {
+
+	public static void main(String[] args) {
+		
+		Test01 test01_1 = new Test01() {
+			@Override
+			public void prn() {
+				System.out.println("test01_1");
+			}
+		};
+		test01_1.prn();
+		
+		// () -> {code}
+		Test01 test01_2 = () -> {System.out.println("test01_2");};
+		test01_2.prn();
+		
+		// () -> code
+		Test01 test01_3 = () -> System.out.println("test01_3");
+		test01_3.prn();
+		
+		// (parameter) -> code;
+		Test02 test02_1 = (int n) -> System.out.println("test02_1 : " + n);
+		test02_1.prn(10);
+	}
+	
+}

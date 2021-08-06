@@ -1,0 +1,13 @@
+package com.algo;
+
+public class MTest {
+	
+	public static int[] makeArr(int size) {
+		
+	}
+	
+	public static void main(String[] args) {
+		
+	}
+
+}

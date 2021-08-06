@@ -1,0 +1,22 @@
+package com.test03;
+
+import java.util.function.Consumer;
+import java.util.function.Supplier;
+
+public class Functional04 {
+
+	public static void main(String[] args) {
+		// supplier
+		Supplier<Integer> rnum = () -> (int)(Math.random() * 45) + 1;
+		System.out.println(rnum.get());
+		System.out.println(rnum.get());
+		System.out.println(rnum.get());
+		
+		// consumer
+		Consumer<String> hello = (name) -> System.out.println("Hello, " + name);
+		hello.accept("Lambda");
+		
+		// biconsumner
+	}
+	
+}

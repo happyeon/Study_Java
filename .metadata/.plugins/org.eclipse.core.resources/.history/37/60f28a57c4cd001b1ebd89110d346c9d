@@ -1,0 +1,13 @@
+package com.java05_class;
+
+// class : 설계도
+// instance : 객체 - 
+public class Animal {
+	
+	// field : 속성
+	private String kind;
+	private String name;
+	private int age;
+	
+
+}

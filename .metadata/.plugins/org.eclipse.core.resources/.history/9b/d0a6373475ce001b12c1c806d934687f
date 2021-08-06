@@ -1,0 +1,8 @@
+package com.test02;
+
+@FunctionalInterface
+public interface MyCalc {
+
+	doucle calc(double a, double b);
+	
+}

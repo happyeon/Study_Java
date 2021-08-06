@@ -1,0 +1,13 @@
+package com.test03;
+
+public class Functional03 {
+	
+	public static void main(String[] args) {
+		func01();
+	}
+
+	private static void func01() {
+		
+	}
+
+}

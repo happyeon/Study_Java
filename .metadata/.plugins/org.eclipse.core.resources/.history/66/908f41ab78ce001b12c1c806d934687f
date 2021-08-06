@@ -1,0 +1,24 @@
+package com.test03;
+
+import java.util.Scanner;
+import java.util.function.Predicate;
+
+public class Functional02 {
+	
+	static Scanner sc = new Scanner(System.in);
+	
+	public static boolean isNull(String name, Predicate<String> predic) {
+		return predic.test(name);
+	}
+	
+	public static void main(String[] args) {
+		
+		predict01();
+		
+	}
+
+	private static void predict01() {
+		
+	}
+
+}

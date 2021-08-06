@@ -1,0 +1,13 @@
+package com.java05_class;
+
+// class : 설계도
+// instance : 객체 - class를 가지고 memory에 실제로 구현된 구현체
+public class Animal {
+	
+	// field : 속성
+	private String kind;
+	private String name;
+	private int age;
+	
+
+}

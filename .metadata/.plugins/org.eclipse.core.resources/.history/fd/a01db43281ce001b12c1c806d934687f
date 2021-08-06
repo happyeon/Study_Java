@@ -1,0 +1,20 @@
+package com.test04;
+
+import java.util.stream.Stream;
+
+public class MTest {
+
+	public static void main(String[] args) {
+		createStream();
+	}
+
+	private static void createStream() {
+		Stream<String> stream01 = Stream.<String>builder().add("홍길동").add("이순신").add("김선달").build();
+		stream01.forEach(System.out::println);
+		
+		Stream<String> stream02 = Stream.empty();
+		System.out.println(stream02.toArray());
+		
+	}
+
+}

@@ -1,0 +1,13 @@
+package com.test03;
+
+import java.util.function.UnaryOperator;
+
+public class Functional01 {
+	
+	public static void main(String[] args) {
+		
+		UnaryOperator<String> hello;
+		
+	}
+
+}

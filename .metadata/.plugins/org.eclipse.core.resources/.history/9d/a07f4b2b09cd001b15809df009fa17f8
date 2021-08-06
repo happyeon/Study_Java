@@ -1,0 +1,14 @@
+package com.java01_type;
+
+public class MTest {
+	
+	public static void main(String[] args) {
+		// type 변수 = 값;
+		// 기본타입
+		// 정수형 실수형 문자형 논리형 + 문자열
+		
+		
+		// 참조타입
+	}
+
+}

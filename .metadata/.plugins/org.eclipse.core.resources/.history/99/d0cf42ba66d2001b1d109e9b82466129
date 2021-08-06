@@ -1,0 +1,20 @@
+package com.algo;
+
+import java.util.Collections;
+import java.util.List;
+import java.util.stream.Collectors;
+import java.util.stream.IntStream;
+
+public class MTest {
+	
+	public static int[] makeArr(int size) {
+		List<Integer> list = IntStream.range(1, size).boxed().collect(Collectors.toList());
+		Collections.shuffle(list);
+		int[] arr = list.stream().mapToInt(x -> x).toArray();
+	}
+	
+	public static void main(String[] args) {
+		
+	}
+
+}

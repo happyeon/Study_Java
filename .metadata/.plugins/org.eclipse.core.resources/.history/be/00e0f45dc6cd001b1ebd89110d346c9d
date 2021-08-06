@@ -1,0 +1,55 @@
+package com.java05_class;
+
+// class : 설계도
+// instance : 객체 - class를 가지고 memory에 실제로 구현된 구현체
+public class Animal {
+	
+	// field : 속성
+	private String kind;
+	private String name;
+	private int age;
+	
+	// constructor : 필드 초기화, 객체 생성
+	// 기본 생성자
+	public Animal() {		
+	}
+	
+	// 파라미너 있는 생성자
+	public Animal(String kind, String name, int age) {
+		this.kind = kind;
+		this.name = name;
+		this.age = age;
+	}
+	
+	// method : 기능
+	public void bark() {
+		System.out.println("동물이 운다ㅠㅠ");
+	}
+	
+	// getter  /  setter
+	public String getKind() {
+		return kind;
+	}
+
+	public void setKind(String kind) {
+		this.kind = kind;
+	}
+
+	public String getName() {
+		return name;
+	}
+
+	public void setName(String name) {
+		this.name = name;
+	}
+
+	public int getAge() {
+		return age;
+	}
+
+	public void setAge(int age) {
+		this.age = age;
+	}
+
+	
+}

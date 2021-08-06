@@ -1,0 +1,10 @@
+package com.java05_class;
+
+public class Animal {
+	
+	private String kind;
+	private String name;
+	private int age;
+	
+
+}

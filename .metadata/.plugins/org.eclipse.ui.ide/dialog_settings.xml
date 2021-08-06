@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="ExternalProjectImportWizard">
+		<item key="WizardProjectsImportPage.STORE_ARCHIVE_SELECTED" value="true"/>
+		<item key="WizardProjectsImportPage.STORE_CLOSE_CREATED_PROJECTS_ID" value="false"/>
+		<item key="WizardProjectsImportPage.STORE_HIDE_CONFLICTING_PROJECTS_ID" value="false"/>
+		<list key="WizardProjectsImportPage.STORE_DIRECTORIES">
+			<item value=""/>
+		</list>
+		<list key="WizardProjectsImportPage.STORE_ARCHIVES">
+			<item value="C:\Users\happy\OneDrive\문서\카카오톡 받은 파일\DBTest03.zip"/>
+			<item value="C:\Users\happy\OneDrive\문서\카카오톡 받은 파일\DBTest02.zip"/>
+			<item value="C:\Users\happy\OneDrive\문서\카카오톡 받은 파일\DBTest01.zip"/>
+			<item value="C:\Users\happy\OneDrive\문서\카카오톡 받은 파일\DBTest00.zip"/>
+			<item value="C:\Users\happy\OneDrive\문서\카카오톡 받은 파일\Java_19_URI_Web.zip"/>
+			<item value="C:\Users\happy\OneDrive\문서\카카오톡 받은 파일\KHTest01.zip"/>
+			<item value="C:\Users\happy\OneDrive\문서\카카오톡 받은 파일\Java20_Network.zip"/>
+			<item value="C:\Users\happy\OneDrive\문서\카카오톡 받은 파일\Java19_URI.zip"/>
+			<item value="C:\Users\happy\OneDrive\문서\카카오톡 받은 파일\Java18_Thread.zip"/>
+			<item value="C:\Users\happy\OneDrive\문서\카카오톡 받은 파일\Java17_IO.zip"/>
+			<item value="C:\Users\happy\OneDrive\문서\카카오톡 받은 파일\Java16_Exception.zip"/>
+			<item value="C:\Users\happy\OneDrive\문서\카카오톡 받은 파일\Java15_Collection.zip"/>
+			<item value="C:\Users\happy\OneDrive\문서\카카오톡 받은 파일\Java14_abstract_interface.zip"/>
+			<item value="C:\Users\happy\OneDrive\문서\카카오톡 받은 파일\Java13_class.zip"/>
+			<item value="C:\Users\happy\OneDrive\문서\카카오톡 받은 파일\Java12_Practice02.zip"/>
+			<item value="C:\Users\happy\OneDrive\문서\카카오톡 받은 파일\Java11_String.zip"/>
+			<item value="C:\Users\happy\OneDrive\문서\카카오톡 받은 파일\GawiBawiBo.zip"/>
+			<item value="C:\Users\happy\OneDrive\바탕 화면\Java10_Array.zip"/>
+		</list>
+	</section>
+</section>
